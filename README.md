@@ -9,7 +9,7 @@ Projeto para a empresa Richasfy
 </h1>
 
 <p align="center">Projeto de links para divulgação</p>
-<p align="center"><a href="https://weslleyrichardi.github.io/Projeto-Networking/">Acesso do projeto aqui</a></p>
+<p align="center"><a href="https://weslleyrichardi.github.io/Richasfy/">Acesso do projeto aqui</a></p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
