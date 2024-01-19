@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://github.com/weslleyrichardi/Projeto-Networking/blob/main/style/avatar.png" alt="" width="120">
+  <img src="style/avatar.png" alt="" width="120">
 <br>
   Weslley Richard
 <br>
