@@ -9,7 +9,7 @@ Projeto para a empresa Richasfy
 </h1>
 
 <p align="center">Projeto de links para divulgação</p>
-<p align="center"><a href="https://weslleyrichardi.github.io/Richasfy/">Acesso do projeto aqui</a></p>
+<p align="center"><a href="https://weslleyrichardi.github.io/DevLinks-Richasfy/">Acesso do projeto aqui</a></p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -17,7 +17,6 @@ Projeto para a empresa Richasfy
 </p>
 
 ## Características
-[//]: # (Add the features of your project here:)
 Este projeto apresenta uma forma simplificada de fazer networking e compartilhar redes sociais.
 - 📌 **html** — Linguagem de marcação utilizada na construção de páginas na Web.
 - 📌 **css** — Mecanismo para adicionar estilos a uma página web.
