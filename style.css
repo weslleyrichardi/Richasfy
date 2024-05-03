@@ -18,11 +18,11 @@ body * {
     color: var(--text-color);
 }
 body {
-    background: var(--bg-url) no-repeat top center/cover;
+    background: var(--bg-url) no-repeat top center;
     /*background-image: url(style/bg-mobile.jpg);
     background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;*/
+    background-position: top center;*/
+    background-size: cover;
     
 }
 
